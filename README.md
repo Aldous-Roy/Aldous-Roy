@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **leet ranking**
 
-- 🌱 I’m currently learning **three.js,react 3 finer**
+- 🌱 I’m currently learning **three.js,react 3 fiber**
 
 - 🤝 I’m looking for help with **leave-management**
 
