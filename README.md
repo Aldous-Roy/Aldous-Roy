@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aldous Roy</h1>
-<h3 align="center">A passionate Full stack web and java developer from India</h3>
+<h3 align="center">A passionate Full stack web and java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldous-roy&label=Profile%20views&color=0e75b6&style=flat" alt="aldous-roy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldous-roy" alt="aldous-roy" /></a> </p>
 
-- 🔭 I’m currently working on **leet ranking**
+- 🔭 I’m currently working on **Pipelining and DevOPS**
 
-- 🌱 I’m currently learning **three.js,react 3 fiber**
+- 🌱 I’m currently learning **Spring AI**
 
-- 🤝 I’m looking for help with **leave-management**
+- 🤝 I’m looking for help with **AWS,Azure server production**
 
 - 💬 Ask me about **react, express,mongoDB**
 
